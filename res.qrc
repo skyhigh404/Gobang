@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/begingame.jpg</file>
+        <file>resource/blackchess.png</file>
+        <file>resource/chessboard.png</file>
+        <file>resource/startinterface.png</file>
+        <file>resource/whitechess.png</file>
+        <file>resource/stalemate.png</file>
+        <file>resource/tryagain.png</file>
+        <file>resource/quit.png</file>
+        <file>resource/win.png</file>
+        <file>resource/fail.png</file>
+        <file>resource/begin.png</file>
+        <file>resource/transparent.png</file>
+    </qresource>
+</RCC>
